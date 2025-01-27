@@ -1,3 +1,9 @@
+Hello There, 
+Here are the required credentials:
+Admin: admin@gmail.com admin123
+User: user1@gmail.com user123 (password is the same and the email is user2, user3 etc.)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
